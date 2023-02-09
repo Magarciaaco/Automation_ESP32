@@ -117,7 +117,6 @@ void _4bit_Traverse_(uint8_t e) {
 // LOOP END
 void setup() {
   _IO_(0); // SET I\O PINS
-  _4bit_Traverse_();
 }
 void loop() {
   _4bit_Traverse_();
