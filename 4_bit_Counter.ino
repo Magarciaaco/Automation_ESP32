@@ -58,7 +58,7 @@
 #define D 4 // Digital pin D4
 #define A 5 // Digital pin D5
 static const uint8_t _BCDA_[] = {B, C, D, A};
-// __4Bit__ Array
+// __4Bit__ Recursive traverse size
 static const uint8_t __4Bit__ = 16;
 //      0b00000000, // 0  0b 0000 0000
 //      0b00000001, // 1  0b 0000 0001
